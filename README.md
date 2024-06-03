@@ -16,10 +16,13 @@ In this project I will create a fake company, assess the risks that the company 
 <br />
 
 <h3>👥 Staff</h3>
-<b>Co-Owners and Founders</b>: River Freeman and TR Smith - responsible for overall company vision and designing seasonal clothing collections
+<b>Co-Owners and Founders</b> 
+
+River Freeman and TR Smith - responsible for overall company vision and designing seasonal clothing collections
 
 <b>Deapartment heads</b>:
-Brian Richards - Head of II: responsible for creating and maintaining the company's e-commerce website and other digital assets
+
+Brian Richards - Head of IT: responsible for creating and maintaining the company's e-commerce website and other digital assets
 
 Danielle Newton - Head of Production: responsible for overseeing the creation of product
 
